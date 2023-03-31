@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 31 22:10:35 BDT 2023","Fri Mar 31 22:11:18 BDT 2023","42391","Default suite","Default test","testcases.Testallpages","testcases.Testallpages","TestPages","TestPages","TestPages from Allure"
