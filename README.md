@@ -35,7 +35,7 @@ Graphical representation
 
 Test suites - Test pages
 <p align="center">
-  <img src="https://github.com/tasnintania/Testing_Automation-_Rokomari/blob/main/Report_image/338629177_219620477417136_4107610739308126801_n.png" />
+  <img src="https://github.com/tasnintania/Testing_Automation-_Rokomari/blob/main/Report_image/338719084_897486118034873_233405248061576100_n.png" />
 </p>
 
 Test suites - Test body
