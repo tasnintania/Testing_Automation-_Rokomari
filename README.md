@@ -1,9 +1,9 @@
 
 # Automation Testing on Rokomari.com
 
--[Introduction](https://github.com/Muftain1610/Test_Automation_rokomari#introduction)
+-[Introduction](#introduction)
 
--[Allure Report](https://github.com/Muftain1610/Test_Automation_rokomari#allure-report) 
+-[Allure Report](#allure-report) 
 
  
 
